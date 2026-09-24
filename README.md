@@ -1,6 +1,7 @@
 # Sequoia Dark for Omarchy
 
 A warm, inviting, and modern dark theme for [Omarchy](https://omarchy.org).
+Includes uniform styling across nvim, btop and vs-code.
 
 ## Preview
 
