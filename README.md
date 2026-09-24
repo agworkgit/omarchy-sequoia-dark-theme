@@ -12,3 +12,16 @@ Who knows where the road might lead you...
 Feel free to check the other backgrounds I included, all themed around the Big Sur coastline and roads.
 
 ![Main Background](./backgrounds/sequoia-bends.png)
+
+## Colour Palette
+
+| Type       | Colour  |
+| ---------- | ------- |
+| Background | #1d1d20 |
+| Accent     | #ffbb88 |
+| Green      | #92fd9b |
+| Yellow     | #fff885 |
+| Blue       | #82aeff |
+| Magenta    | #a27fff |
+| Cyan       | #00f489 |
+| Foreground | #ffeed2 |
