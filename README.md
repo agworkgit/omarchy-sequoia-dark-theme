@@ -12,13 +12,13 @@ Includes uniform styling across nvim, btop and vs-code.
 In your terminal of choice paste the following link:
 
 ```text
-omarchy theme install https://github.com/agworkgit/omarchy-squoia-dark-theme
+omarchy theme install https://github.com/agworkgit/omarchy-sequoia-dark-theme
 ```
 
 Or via the Omarchy menu `SUPER + SPACE`, Install > Style > Theme
 
 ```text
-https://github.com/agworkgit/omarchy-squoia-dark-theme
+https://github.com/agworkgit/omarchy-sequoia-dark-theme
 ```
 
 ## Main Background
