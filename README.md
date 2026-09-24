@@ -7,6 +7,12 @@ Includes uniform styling across nvim, btop and vs-code.
 
 ![Sequoia Dark](./preview.png)
 
+## Installation
+
+```text
+omarchy theme install https://github.com/pkovzz/omarchy-black-sand-theme.git
+```
+
 ## Main Background
 
 Who knows where the road might lead you...
