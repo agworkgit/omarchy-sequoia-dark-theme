@@ -1,3 +1,7 @@
+# Sequoia Dark for Omarchy
+
 A warm, inviting, and modern dark theme for [Omarchy](https://omarchy.org).
 
-Preview: ![Sequoia Dark](./preview.png)
+## Preview
+
+![Sequoia Dark](./preview.png)
