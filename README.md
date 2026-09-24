@@ -40,3 +40,9 @@ Feel free to check the other backgrounds I included, all themed around the Big S
 | Magenta    | #a27fff |
 | Cyan       | #00f489 |
 | Foreground | #ffeed2 |
+
+## Limitations
+
+No neovim.lua or vscode.json: those pin a named upstream colorscheme plugin rather than reading colors.toml, and no published scheme matches this palette. Both applications fall back to Omarchy's defaults. 
+
+If you would like to get uniform colours across LazyVim and VS Code some of the files need to be placed in the theme directory manually, the process is simple, clone the repo separately and move the `btop.theme` and `neovim.lua` to your local theme directory at `~/.config/omarchy/themes/sequoia-dark`
