@@ -10,7 +10,7 @@ Includes uniform styling across nvim, btop and vs-code.
 ## Installation
 
 ```text
-omarchy theme install https://github.com/pkovzz/omarchy-black-sand-theme.git
+omarchy theme install https://github.com/agworkgit/omarchy-squoia-dark-theme
 ```
 
 ## Main Background
