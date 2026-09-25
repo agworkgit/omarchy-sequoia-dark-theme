@@ -31,6 +31,14 @@ Version: 1.0.0
 Publisher: agworkgit
 ```
 
+#### Installation
+
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+
+```text
+ext install AlexGrigore.sequoia-dark
+```
+
 ## Main Background
 
 Who knows where the road might lead you...
