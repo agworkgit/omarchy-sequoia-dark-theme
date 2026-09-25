@@ -31,8 +31,6 @@ Version: 1.0.0
 Publisher: AlexGrigore
 ```
 
-#### Installation
-
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
 ```text
@@ -58,6 +56,83 @@ Feel free to check the other backgrounds I included, all themed around the Big S
 | Magenta    | #a27fff |
 | Cyan       | #00f489 |
 | Foreground | #ffeed2 |
+
+## Font
+
+```
+VictorMono Nerd Font
+```
+
+## Hyprland Settings
+
+If you'd like to get the same corner radius and window gaps I'm using, here's my `lookandfeel.lua` config for comparison
+
+```lua
+-- Change the default Omarchy look'n'feel.
+
+-- https://wiki.hypr.land/Configuring/Basics/Variables/#general
+hl.config({
+  general = {
+    -- No gaps between windows or borders.
+    gaps_in = 4,
+    gaps_out = 14,
+    border_size = 2,
+
+    -- Change to niri-like side-scrolling layout.
+    -- layout = "scrolling",
+  },
+})
+
+-- https://wiki.hypr.land/Configuring/Basics/Variables/#decoration
+hl.config({
+  decoration = {
+    -- Use round window corners.
+    rounding = 12,
+    -- Dim unfocused windows (0.0 = no dim, 1.0 = fully dimmed).
+    -- dim_inactive = true,
+    -- dim_strength = 0.15,
+  },
+    -- Groupbar tab roundness.
+    group = {
+        groupbar = {
+            gradients = true,
+            text_padding = 16,
+            rounding = 12,
+            gradient_round_only_edges = false,
+            gradient_rounding = 12,
+            gradient_rounding_power = 2,
+            indicator_height = 0,
+            gaps_in = 4,
+            gaps_out = 0
+        }
+  }
+})
+
+-- https://wiki.hypr.land/Configuring/Basics/Variables/#animations
+hl.config({
+  animations = {
+    -- Disable all animations.
+    enabled = false,
+  },
+})
+
+-- https://wiki.hypr.land/Configuring/Basics/Variables/#layout
+hl.config({
+  layout = {
+--     -- Avoid overly wide single-window layouts on wide screens.
+    single_window_aspect_ratio = { 1, 1 },
+  },
+})
+
+-- https://wiki.hypr.land/Configuring/Layouts/Scrolling-Layout/
+-- hl.config({
+--   scrolling = {
+--     -- See only one column per screen instead of two.
+--     column_width = 0.97,
+--   },
+-- })
+
+```
 
 ## Limitations
 
