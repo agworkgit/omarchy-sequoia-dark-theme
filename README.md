@@ -25,10 +25,10 @@ https://github.com/agworkgit/omarchy-sequoia-dark-theme
 
 ```
 Name: Sequoia Dark
-Id: agworkgit.sequoia-dark
+Id: AlexGrigore.sequoia-dark
 Description: A dark VS Code theme with warm amber, neon green, blue and purple accents that matches the Sequoia Dark Omarchy theme.
 Version: 1.0.0
-Publisher: agworkgit
+Publisher: AlexGrigore
 ```
 
 #### Installation
